@@ -1,0 +1,7 @@
+{
+    "posts":[
+        { "id":1, "name":"Jane", "address":"Denmark" },
+        { "id":2, "name":"John", "address":"Sydney" },
+        { "id":3, "name":"Johnathon", "address":"Peru" }
+    ]
+}
